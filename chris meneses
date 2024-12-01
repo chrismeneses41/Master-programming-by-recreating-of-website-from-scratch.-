@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>my first website</title>
+            
+            <link rel="stylesheet" href="style.css"/>
+            <link rel="icon" href="cm3.jpeg"/>
+
+            
+            <style>a
+                header{
+                    border-width: 5px;
+                    border-color: black;
+                    border-style: solid;
+                }
+            </style>
+        
+    </head>
+
+    
+    <body>
+
+        <div id="nav">
+            <h1>Welcome to my website &#128521</h1>
+            <h2>my home page</h2>
+            <a href="home.html"target="_self">home</a>&#160;&#160;|&#160;&#160;
+            <a href="about.html"target="_self">about</a>&#160;&#160;|&#160;&#160;
+            <a href="friend.html"target="_self">friend</a>&#160;&#160;|&#160;&#160;
+            <a href="message.html"target="_self">message</a>&#160;&#160;|&#160;&#160;
+            <a href="https://www.youtube.com/@SDPTSolutions"target="_blank">sdpt</a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            <input type="search" placeholder="search" size="5"/>
+        </div>
+
+        <div class="header">
+            <p>SOUNDTRIP</p>
+            <iframe width="300" height="200" src="https://www.youtube.com/embed/6G3u6FxUoLQ?si=_yzz6k8CKzFghigo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+        <br/>
+        <br/>
+    
+        <form target="_self">
+            <input type="text" placeholder="name:" required/><br/>
+            <input type="text" placeholder="address:" required/><br/>
+            <input type="number" placeholder="age:" size="100" required/><br/>
+            <input type="text" placeholder="telephone:" required/><br/>
+            <input type="email" placeholder="emai:" required/><br/>
+            <input type="password" placeholder="password:"required/><br/>
+            <input type="submit"/><br/>
+            <input type="reset"/><br/>
+            <br/><br/><br/><br/>
+            <input type="color" value="#ffffff"/>
+            <p>choose your favorite color</p>
+        </form> 
+
+        <div id="footer">
+            <p>&copy;copyright CHRIS CREATING SITE 2024</p>
+        </div>
+
+
+    </body>
+
+</html>
+
+
+
+
+<!---
+
+-->
